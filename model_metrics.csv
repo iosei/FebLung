@@ -1,0 +1,2 @@
+Model,Accuracy,AUC,Sensitivity,Specificity
+q-FedAvg_be_vs_ad_sq_model,metatensor(76.8000),0.944738,0.7679999999999999,0.8066379843637596
